@@ -23,7 +23,7 @@
 
 }
 
-.home h2 {
+.home h1 {
   margin: auto;
   text-align: center;
   
@@ -77,6 +77,10 @@
 
 }
 
+.description h3 {
+  padding-left: 2%;
+}
+
 .descriptionBoard {
     margin: auto;
   padding-top: 10%;
@@ -96,7 +100,10 @@
   /*background-color: #e6f0ff;*/
   padding: 2%;
       text-indent: 30px;
+}
 
+.descriptionBoard h3 {
+    padding-left: 2%;
 }
 
 .suggestion {
